@@ -18,4 +18,5 @@ def primechecker(n):
 
 
 
-defpalindrone (0 dvgvjh)         
+def dispaly():
+    print("new funcation added")     
