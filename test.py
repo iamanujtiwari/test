@@ -14,4 +14,8 @@ def primechecker(n):
     if n%2 != 0:
         print("prime")
     else:
-        print("not")    
+        print("not")   
+
+
+
+defpalindrone (0 dvgvjh)         
